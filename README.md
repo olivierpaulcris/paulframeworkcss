@@ -4,7 +4,7 @@
 
 ## Description
 
-Paul Framework CSS, developed in 2021.
+CSS Framework, developed in 2021.
 
 ## Index
 
