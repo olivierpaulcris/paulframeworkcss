@@ -9,13 +9,15 @@ CSS Framework, developed in 2021.
 ## Index
 
 - [Instalation](#instalation)
-- [Usage](#usage)
 - [Live Preview](#live-preview)
 - [License](#license)
 
 ## Instalation
 
-## Usage
+```
+git clone https://github.com/olivierpaulcris/paulframeworkcss.git
+git checkout master
+```
 
 ## Live Preview
 
